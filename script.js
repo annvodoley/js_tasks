@@ -1,8 +1,9 @@
 
 //методы массивов
 
-//task 2
-const arr = ['a','b','c']
-arr.push(1,2,3)
+//task 3
+const arr = [1,2,3]
+arr.reverse()
 console.log(arr);
+
 
