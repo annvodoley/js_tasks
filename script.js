@@ -1,10 +1,8 @@
 
 //методы массивов
 
-// task 1
-
-const arr1 = ['a', 'b', 'c']
-const arr2 = [1, 2, 3]
-const arr3 = arr1.concat(arr2)
-console.log(arr3);
+//task 2
+const arr = ['a','b','c']
+arr.push(1,2,3)
+console.log(arr);
 
