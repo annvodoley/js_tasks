@@ -1,9 +1,9 @@
 
 //методы массивов
 
-//task 5
+//task 6
 
-const arr = [1, 2, 3]
-arr.unshift(4, 5, 6)
-console.log(arr);
+const arr = ['js', 'css', 'jq']
+console.log(arr[2]);
+console.log(arr[0]);
 
